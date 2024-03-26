@@ -40,5 +40,5 @@ Os campos em [ ] devem ser alterados pelas informações que forem inseridas pel
 
 
 - ``Java``
-- ``IDE Eclipse``
+- ``IDE Intelij``
 
